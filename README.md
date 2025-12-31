@@ -6,6 +6,8 @@
 <h2>👨‍💻 Advance Java Codes:</h2>
 
 - <b>(https://github.com/UdayVairalkar/advance_java.git)</b>
+<h2>👨‍💻  Java Codes:</h2>
+<b>(https://github.com/UdayVairalkar/java_code.git)</b>
 
 
 
