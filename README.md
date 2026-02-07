@@ -1,7 +1,7 @@
 <h1>Hi, I'm Uday! </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-<b>College Management System WebApp : </b> <br>
+<b>College Management System WebApp : https://github.com/UdayVairalkar/College-management-System</b> <br>
 <b>KisanCare WebApp :</b>
 <h2>👨‍💻 Advance Java Codes:</h2>
 
