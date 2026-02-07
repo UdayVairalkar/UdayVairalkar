@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 <b>College Management System WebApp : https://github.com/UdayVairalkar/College-management-System</b> <br>
-<b>KisanCare WebApp :</b>
+<b>KisanCare WebApp :https://github.com/UdayVairalkar/Kisancare_webapp</b>
 <h2>👨‍💻 Advance Java Codes:</h2>
 
 - <b>(https://github.com/UdayVairalkar/advance_java.git)</b>
