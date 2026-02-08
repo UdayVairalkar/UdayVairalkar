@@ -12,7 +12,7 @@
   <a href="https://www.instagram.com/uday_vairalkar/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://udayvairalkar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
