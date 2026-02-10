@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Uday%20Vairalkar&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Aspiring Software Developer | Java • Web • Problem Solver</h3>
+<h3 align="center">Aspiring Software Developer | Full Stack Developer •Java • Web • Problem Solver</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/udayvairalkar" target="_blank">
